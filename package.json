@@ -17,6 +17,7 @@
   "dependencies": {
     "@lucide/vue": "^1.70.0",
     "@tailwindcss/vite": "^4.3.5",
+    "@vueuse/core": "^15.0.0",
     "class-variance-authority": "^0.7.1",
     "cn": "^0.5.2",
     "pinia": "^4.0.3",
