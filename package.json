@@ -17,10 +17,12 @@
   "dependencies": {
     "@lucide/vue": "^1.70.0",
     "@tailwindcss/vite": "^4.3.5",
+    "@tanstack/vue-query": "^5.107.1",
     "@vueuse/core": "^15.0.0",
     "class-variance-authority": "^0.7.1",
     "cn": "^0.5.2",
     "pinia": "^4.0.3",
+    "pinia-plugin-persistedstate": "^4.7.1",
     "reka-ui": "^2.11.0",
     "tailwindcss": "^4.3.5",
     "vue": "^3.5.42",
